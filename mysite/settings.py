@@ -79,6 +79,7 @@ DATABASES = {
         'NAME': 'wqz_test',
         'USER': 'root',
         'PASSWORD': 'qizhi0108',
+        # 'HOST': '192.168.15.55',
         'HOST': '192.168.0.103',
         'PORT': '3306',
     }
